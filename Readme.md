@@ -5,7 +5,7 @@
 ###
 <p align="center">
     <a href="https://www.linkedin.com/in/james-lewis-001271224/" target="_blank" rel="noopener noreferrer"><img align="center" src="Assets/LinkedinBtn.png" width="150px" /></a>
-    <a href="https://github.com/JamesLewis1622" target="_blank" rel="noopener noreferrer"><img align="center" src="Assets/PortfolioBtn.png" width="150px" /></a>
+    <a href="https://JamesLewis1622.github.io" target="_blank" rel="noopener noreferrer"><img align="center" src="Assets/PortfolioBtn.png" width="150px" /></a>
 </p>
 
 ---
